@@ -42,7 +42,7 @@ available emotion labels:
 
 Example of input file content:
 
-`{"text": "the source text"})`
+`{"text": "the source text"}`
 
 #### Outputs:
 `result`: json string
@@ -54,7 +54,7 @@ Example of output file content:
 ## What to expect from this service?
 Inputs:
 
-`{"text": "I hate cats!"})`
+`{"text": "I hate cats!"}`
 
 Outputs:
 
